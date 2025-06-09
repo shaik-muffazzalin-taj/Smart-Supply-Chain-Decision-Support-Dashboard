@@ -100,7 +100,7 @@ EOQ optimization and supplier segmentation improve both efficiency and resilienc
 
 │
 ├── Smart_Supply_Chain_Dashboard.pdf
-├── Smart_Supply_Chain_Dashboard.xlsx
+├── supply chain dashboard.xlsx
 └── README.md
 
 5. Author
